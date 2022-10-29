@@ -2,7 +2,7 @@ public enum EndPoints {
 
     ADDUSER("/AddUser"),
     DELETEUSER("/DeleteUser"),
-    FİNDUSER("/FindUser"),
+    FINDUSER("/FindUser"),
     GETTYPEOFUSER("/GetTypeUser"),
     GETALLUSERS("/GetAllUsers");
 
